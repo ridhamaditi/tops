@@ -1,0 +1,11 @@
+Mainly 3 types.
+
+	Syntax Error
+		prit instead of print. i.e. typing errors
+		bracket closing
+	
+	Logical Error
+		unexpected output. no visual errors
+	
+	Runtime Error
+		zero division error.

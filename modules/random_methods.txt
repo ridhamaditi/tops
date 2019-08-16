@@ -1,0 +1,20 @@
+from random import *
+
+random
+>>> print(random())
+		0 to 1
+
+randint
+>>> print(randint(50,100))
+		50 to 99 any random
+
+randrange
+>>> print(randrange(0,100,5))
+		start, end, step
+
+shuffle
+>>> print(shuffle(list))
+
+choice
+>>> print(choice(['heads', 'tails']))
+		any member of list

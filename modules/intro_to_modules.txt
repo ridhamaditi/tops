@@ -1,0 +1,15 @@
+1
+	import math
+	f = math.floor(5.4)
+
+2
+	import math as m
+	f = m.floor(5.4)
+
+3
+	from math import floor
+	f = floor(5.4)
+	
+4
+	from math import *
+	f = floor(5.4)

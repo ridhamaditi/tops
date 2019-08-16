@@ -1,0 +1,10 @@
+This is red.
+This is blue.
+This is green.
+This is yellow.
+This is pink.
+This is magenta.
+This is cyan.
+This is black.
+This is white.
+This is grey.

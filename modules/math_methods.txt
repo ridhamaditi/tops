@@ -1,0 +1,13 @@
+# type 'dir(math)' to see available methods and constants.
+# type 'help(math)' to see documentation.
+
+floor()
+ceil()
+fabs()
+gcd()
+sqrt()
+log()
+log10()
+sin()
+e
+pi
