@@ -1,0 +1,9 @@
+***************
+__init__()
+
+- constructor of a class
+
+- a special method that initializes the parameters of a class
+
+***************
+self is an object which is used to access the data members of the class inside the class.
